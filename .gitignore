@@ -2,7 +2,7 @@
 credentials.json
 node_modules
 .next
-
+package-lock.json
 # dependencies
 /.pnp
 .pnp.js
